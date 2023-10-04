@@ -25,10 +25,7 @@ Route::get('productos/detalle', [ProductController::class,'detalle']);
 //Route::get('productos/create', function ($id) {
 //   return "Aqui va a estar el formulario para la creación de archivos";
 //});
-//hola
-//hola
-//hola
-//hola
+
 //Route::get('productos/{id}', function ($id) {
 //   return "el nombre del producto es $id";
 //});
